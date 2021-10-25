@@ -1,0 +1,8 @@
+sA writes t1
+sC writes t1
+sA writes t2
+sB reads t1
+sB writes t3
+sC reads t2
+sD reads t3
+

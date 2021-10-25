@@ -1,0 +1,4 @@
+sA reads t1
+sB writes t1
+sC writes t2
+sD reads t2
